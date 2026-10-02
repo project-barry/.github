@@ -1,4 +1,4 @@
-As stated in the description, this is a playground for testing ideas using GenAI. Use any of this code at your own discretion. 
+Project Barry is a playground for testing ideas using GenAI. Use any of this code at your own discretion. 
 
 If you see anything that doesn't seem to credit someone, open an issue and we will rectify that immediately it's not intentional and would be unacceptable. Every repo in this project should clearly state which generative AI model was used, and it should clearly credit all sources. 
 
