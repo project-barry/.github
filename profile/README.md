@@ -7,3 +7,7 @@ We're not trying to trick anyone and we will neither defend nor deny the fact th
 We sincerely hope that if you see an idea you like and want to implement it in a traditional human coded project, that you'll do so. Credit us or don't, we just want our toys to do cool shit.
 
 - lavachemist
+
+---
+
+**Join the Project Barry community on Discord:** https://discord.gg/KSCCwcGG3
