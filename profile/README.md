@@ -10,4 +10,4 @@ We sincerely hope that if you see an idea you like and want to implement it in a
 
 ---
 
-**Join the Project Barry community on Discord:** https://discord.gg/KSCCwcGG3
+**Join the Project Barry community on Discord:** https://discord.gg/euPurKCWc4
